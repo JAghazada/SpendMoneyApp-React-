@@ -1,0 +1,13 @@
+p{
+font-size:25px;
+color : #000;
+font-family: Arial, Helvetica, sans-serif;
+padding : 10px;
+}
+.header {
+    border: 2px #000 solid;
+}
+img {
+    height: 300px;
+    width: 270px;
+}
