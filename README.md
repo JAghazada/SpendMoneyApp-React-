@@ -11,5 +11,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 ### `About This App!`
-Please don't think about responsive design.I force react hooks in this app.
-### P.O.V : React hooks && React usage
+Bear in mind:
+A responsive design  is not necessary here
+### The main idea is using React hooks && React correctly
